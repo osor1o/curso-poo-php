@@ -10,7 +10,7 @@
 <?php
     require_once 'Lutador.php';
     require_once 'Luta.php';
-
+    
     $l = array();
 
     $l[0] = new  lutador("Pretty Boy", "Franca", 30, 1.75, 68.9, 11, 2, 1);
